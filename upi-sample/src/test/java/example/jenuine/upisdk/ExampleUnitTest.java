@@ -1,4 +1,4 @@
-package example.jenuine.upi_sample;
+package example.jenuine.upisdk;
 
 import org.junit.Test;
 

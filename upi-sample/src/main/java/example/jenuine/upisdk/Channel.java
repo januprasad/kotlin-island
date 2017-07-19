@@ -1,6 +1,4 @@
-package example.jenuine.upi_sample;
-
-import example.jenuine.upi_sample.callapi.CallBunchAPI;
+package example.jenuine.upisdk;
 
 /**
  * Created by jenuprasad on 19/07/17.

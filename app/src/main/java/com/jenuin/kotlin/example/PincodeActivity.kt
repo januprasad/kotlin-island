@@ -3,11 +3,9 @@ package com.jenuin.kotlin.example
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.widget.Button
 import android.widget.EditText
 import android.os.StrictMode
 import android.widget.TextView
-import example.jenuine.upi_sample.Channel
 
 
 class PincodeActivity : AppCompatActivity() {

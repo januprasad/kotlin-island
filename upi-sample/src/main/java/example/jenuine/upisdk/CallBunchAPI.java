@@ -1,4 +1,4 @@
-package example.jenuine.upi_sample.callapi;
+package example.jenuine.upisdk;
 
 /**
  * Created by jenuprasad on 19/07/17.

@@ -1,4 +1,4 @@
-package example.jenuine.upi_sample;
+package example.jenuine.upisdk;
 
 public interface UPIInterface {
     public void callPayAPI();
